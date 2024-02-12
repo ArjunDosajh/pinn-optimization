@@ -7,7 +7,7 @@ This paper provides 3 examples of using PINNs to solve real-world optimization t
 2. Determining the shortest-time path connecting two given points
 3. Finding a swingby trajectory of a spacecraft
 
-I have implemented a fourth example: `Inverting a pendulum on a cart`
+I have implemented a fourth example: `Inverting pendulum attached to cart`
 
 The code is avalailible at [data/inverting_pendulum/inverted_pendulum_cart.ipynb](https://github.com/ArjunDosajh/pinn-optimization/blob/main/data/inverting_pendulum/inverted_pendulum_cart.ipynb)
 All the data required for training the model is generated within the notebook itself.
